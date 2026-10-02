@@ -1,0 +1,6 @@
+# Secrets never go in a repository (Lesson 4)
+.env
+
+# Files Python makes on its own
+__pycache__/
+*.pyc
