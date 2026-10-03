@@ -16,8 +16,16 @@ A codespace stops after 30 minutes without activity. GitHub deletes a stopped co
 
 ## Folders
 
+Every lab's starter files are already here. Each lab page tells you which file to open.
+
 - `lab1/`: Password Math (Lesson 1)
-- Later labs: each lab page tells you which file to create, and where.
+- `lab2/`: Checker and Cipher (Lesson 2)
+- `lab3/`: Functions with Privacy (Lesson 3)
+- `lab4/`: API Data Explorer (Lesson 4)
+- `lab5/`: Data Structures and Protection (Lesson 5)
+- `lab6/`: Debugging and Incident Response (Lesson 6)
+- `lab7/`: Credibility Checker (Lesson 7)
+- `lab8/`: Capstone Digital Safety Tool (Lesson 7)
 
 ## Public means public
 
