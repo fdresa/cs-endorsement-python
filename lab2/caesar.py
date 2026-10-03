@@ -2,6 +2,9 @@
 # Shifts every letter of a message the same number of places. Spaces and punctuation stay as they are.
 
 message = "Meet me in the library after sixth period."
+# Part 2, step 03: the course message below was encrypted with a shift of 7.
+# To decrypt it, delete the # and the space at the start of the next line, then set shift = -7.
+# message = "Joljr aol ihknl lclyf aptl, lclu mvy h mhtpsphy mhjl."
 shift = 3
 
 result = ""
